@@ -9,7 +9,7 @@ public class Main {
         JFrame obj=new JFrame();
         Gameplay gameplay=new Gameplay();
         obj.setBounds(0,0,550,550);
-        obj.setTitle("game");
+        obj.setTitle("gamegame");
         obj.setVisible(true);
         obj.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         obj.add(gameplay);
